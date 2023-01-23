@@ -28,20 +28,36 @@
         
       },
 
-
       {
-        "id": 2,
+        "id": 1,
         "type": "sale",
-        "name": "",
-        "image": "",
-        "nationality": "",
-        "dob": "",
+        "name": "Marcus Rashford",
+        "height":"170cm | 5'7",
+        "image": "./images/lionelmessi.jpg",
+        "nationality": "Argentina, Spain",
+        "position":"Right Winger,Centre Foward",
+        "league":"Ligue 1 Uber Eats",
+        "dob": "1987-06-24",
         "description": "",
-        "club": "",
-        "value": 1000,
-        "salary": "2019-12-01"
-
-
+        "club": "Paris Saint-Germain F.C ",
+        "value": 55.7,
+        "strong foot":"Left",
+        "salary": "$800,000",
+        "stats": [
+            {
+                "Pace":85,
+                "Shooting":92,
+                "Passing":91,
+                "Dribbling":95,
+                "Defense":34,
+                "Physical":65
+            }
+        ]
+        
       }
+
+
+
+
     ]
     }
