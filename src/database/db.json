@@ -5,7 +5,7 @@
         "type": "loan",
         "name": "Lionel Messi",
         "height":"170cm | 5'7",
-        "image": "./images/lionelmessi.jpg",
+        "image": "./images/lionel-messi.jpg",
         "nationality": "Argentina, Spain",
         "position":"Right Winger,Centre Foward",
         "league":"Ligue 1 Uber Eats",
@@ -29,28 +29,28 @@
       },
 
       {
-        "id": 1,
+        "id": 2,
         "type": "sale",
         "name": "Marcus Rashford",
-        "height":"170cm | 5'7",
-        "image": "./images/lionelmessi.jpg",
-        "nationality": "Argentina, Spain",
-        "position":"Right Winger,Centre Foward",
-        "league":"Ligue 1 Uber Eats",
-        "dob": "1987-06-24",
-        "description": "",
-        "club": "Paris Saint-Germain F.C ",
-        "value": 55.7,
-        "strong foot":"Left",
-        "salary": "$800,000",
+        "height":"186cm | 6'1",
+        "image": "./images/marcus-rashford.png",
+        "nationality": "England",
+        "position":"Winger,Centre Foward",
+        "league":"Premier League",
+        "dob": "1997-10-31",
+        "description": "An English professional footballer who plays as a forward for Premier League club Manchester United and the England national team. He is known for his attacking, dribbling, composure, and athleticism.Rashford scored on his England debut in May 2016, becoming the youngest English player to score in his first senior international match. He has since appeared at two UEFA European Championship; 2016, where he was the tournament's youngest player, and 2020, where he appeared in the Final as England finished as runners-up to Italy. He has also represented England at the 2018 and 2022 FIFA World Cup.",
+        "club": "Manchester United",
+        "value": 49.5,
+        "strong foot":"Right",
+        "salary": "$140,000",
         "stats": [
             {
-                "Pace":85,
-                "Shooting":92,
-                "Passing":91,
-                "Dribbling":95,
-                "Defense":34,
-                "Physical":65
+                "Pace":87,
+                "Shooting":82,
+                "Passing":75,
+                "Dribbling":81,
+                "Defense":41,
+                "Physical":71
             }
         ]
         
