@@ -5,12 +5,12 @@
         "type": "loan",
         "name": "Lionel Messi",
         "height":"170cm | 5'7",
-        "image": "./images/lionelmessi.jpg",
+        "image": "./images/lionel-messi.jpg",
         "nationality": "Argentina, Spain",
         "position":"Right Winger,Centre Foward",
         "league":"Ligue 1 Uber Eats",
         "dob": "1987-06-24",
-        "description": "",
+        "description": "Born and raised in central Argentina, Messi relocated to Spain at the age of 13 to join Barcelona, for whom he made his competitive debut aged 17 in October 2004. He established himself as an integral player for the club within the next three years, and in his first uninterrupted season in 2008–09 he helped Barcelona achieve the first treble in Spanish football; that year, aged 22, Messi won his first Ballon d'Or. Three successful seasons followed, with Messi winning four consecutive Ballons d'Or, making him the first player to win the award four times. During the 2011–12 season, he set the La Liga and European records for most goals scored in a single season, while establishing himself as Barcelona's all-time top scorer. The following two seasons, Messi finished second for the Ballon d'Or behind Cristiano Ronaldo (his perceived career rival), before regaining his best form during the 2014–15 campaign, becoming the all-time top scorer in La Liga and leading Barcelona to a historic second treble, after which he was awarded a fifth Ballon d'Or in 2015. Messi assumed captaincy of Barcelona in 2018, and in 2019 he won a record sixth Ballon d'Or. Out of contract, he signed for Paris Saint-Germain in August 2021.",
         "club": "Paris Saint-Germain F.C ",
         "value": 55.7,
         "strong foot":"Left",
@@ -29,32 +29,62 @@
       },
 
       {
-        "id": 1,
+        "id": 2,
         "type": "sale",
         "name": "Marcus Rashford",
-        "height":"170cm | 5'7",
-        "image": "./images/lionelmessi.jpg",
-        "nationality": "Argentina, Spain",
-        "position":"Right Winger,Centre Foward",
-        "league":"Ligue 1 Uber Eats",
-        "dob": "1987-06-24",
-        "description": "",
-        "club": "Paris Saint-Germain F.C ",
-        "value": 55.7,
-        "strong foot":"Left",
-        "salary": "$800,000",
+        "height":"186cm | 6'1",
+        "image": "./images/marcus-rashford.png",
+        "nationality": "England",
+        "position":"Winger,Centre Foward",
+        "league":"Premier League",
+        "dob": "1997-10-31",
+        "description": "An English professional footballer who plays as a forward for Premier League club Manchester United and the England national team. He is known for his attacking, dribbling, composure, and athleticism.Rashford scored on his England debut in May 2016, becoming the youngest English player to score in his first senior international match. He has since appeared at two UEFA European Championship; 2016, where he was the tournament's youngest player, and 2020, where he appeared in the Final as England finished as runners-up to Italy. He has also represented England at the 2018 and 2022 FIFA World Cup.",
+        "club": "Manchester United",
+        "value": 49.5,
+        "strong foot":"Right",
+        "salary": "$140,000",
         "stats": [
             {
-                "Pace":85,
-                "Shooting":92,
-                "Passing":91,
-                "Dribbling":95,
-                "Defense":34,
+                "Pace":87,
+                "Shooting":82,
+                "Passing":75,
+                "Dribbling":81,
+                "Defense":41,
+                "Physical":71
+            }
+        ]
+        
+      },
+
+      {
+        "id": 3,
+        "type": "sale",
+        "name": "Marco Reus",
+        "height":"180cm ",
+        "image": "./images/Marco-Reus.jpg",
+        "nationality": "German",
+        "position":"CAM",
+        "league":"Bundes Liga",
+        "dob": "1989-05-31",
+        "description": "A German professional footballer who plays as an attacking midfielder or forward. He captains Bundesliga club Borussia Dortmund and plays for the Germany national team.Reus spent his youth career at Borussia Dortmund, prior to leaving for Rot Weiss Ahlen. He joined Borussia Mönchengladbach in 2009, and had his most successful season in 2012, scoring 18 goals and providing 12 assists in the Bundesliga to help Borussia Mönchengladbach secure a place in the following season's UEFA Champions League. Reus returned to his hometown club Borussia Dortmund at the end of that season, helping the club reach the 2013 UEFA Champions League Final in his first season. With Dortmund, Reus won three DFL-Supercups (in 2013, 2014 and 2019), and the DFB-Pokal in 2017 and 2021, he has scored over 150 goals for the club, and is one of only three players to have reached 100 Bundesliga goals and assists each. ",
+        "club": "Borussia Dortmund",
+        "value": 33.5,
+        "strong foot":"Right",
+        "salary": "$78,000",
+        "stats": [
+            {
+                "Pace":70,
+                "Shooting":84,
+                "Passing":84,
+                "Dribbling":85,
+                "Defense":53,
                 "Physical":65
             }
         ]
         
       }
+
+
 
 
 
