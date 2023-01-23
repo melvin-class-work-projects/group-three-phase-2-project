@@ -1,7 +1,7 @@
 import PlayerList from "./PlayerList";
 import useFetch from "./useFetch";
 
-const Home = () => {
+const Players = () => {
     const {data} = useFetch('http://localhost:3000/players')
     return ( 
         <div className="container">
@@ -10,4 +10,4 @@ const Home = () => {
      );
 }
  
-export default Home;
+export default Players;

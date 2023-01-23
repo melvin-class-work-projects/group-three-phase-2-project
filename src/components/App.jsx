@@ -1,12 +1,12 @@
 import '../stylesheet/App.css';
-import Home from './Home';
+import Players from './Players';
 import Navbar from './Navbar';
 
 function App() {
   return (
     <>
       <Navbar />
-       <Home />
+       <Players />
     </>
   );
 }
