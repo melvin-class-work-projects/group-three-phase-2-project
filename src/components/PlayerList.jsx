@@ -13,7 +13,7 @@ const PlayerList = ({players, title}) => {
                                 <p>Deal: {player.type}</p>
                                 <small>Position: {player.position}</small>
                                 <p>Weekly Salary: {player.salary}</p>
-                                <p>Market Value: {player.value}M Euros</p>
+                                <p>Market Value: {player.value} Euros</p>
                             </div>
                         </div>
                     )
