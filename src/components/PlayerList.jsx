@@ -9,10 +9,11 @@ const PlayerList = ({players, title}) => {
                             <img src={player.image} className="card-img-top" alt={player.name}></img>
                             <div className="card-body">
                                 <h5 className="card-title">Name: {player.name}</h5>
-                                <p>ID: {player.id}</p>
+                                <h6>Current Club:{player.club}</h6>
+                                <p>Deal: {player.type}</p>
                                 <small>Position: {player.position}</small>
                                 <p>Weekly Salary: {player.salary}</p>
-                                <p>Market Value: {player.value} million Euros</p>
+                                <p>Market Value: {player.value}M Euros</p>
                             </div>
                         </div>
                     )
