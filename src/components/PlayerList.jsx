@@ -18,6 +18,7 @@ const PlayerList = ({players, title}) => {
                             <img src={player.image} className="card-img-top" alt={player.name} style={{"background-size":"cover","background-repeat":"no-repeat","height":"325px"}}></img>
                             <div className="card-body">
                                 <h5 className="card-title">Name: {player.name}</h5>
+                                <h6>Country:{player.nationality}</h6>
                                 <h6>Current Club:{player.club}</h6>
                                 <ul>
                                     <li>Deal: {player.type}</li>
