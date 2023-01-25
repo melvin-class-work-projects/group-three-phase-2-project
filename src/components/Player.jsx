@@ -26,10 +26,12 @@ const Player = () => {
     const ShowPlayer = () => {
         return (
           <>
-            <div className="col-md-6">
+            <div className="col-md-6 img-fluid img-thumbnail">
               <img
-                src={player.profile}
+                src={player.image}
                 alt={player.name}
+                height="200px"
+
               />
             </div>
             <div className="col-md-6">
