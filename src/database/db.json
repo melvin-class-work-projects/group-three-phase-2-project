@@ -388,12 +388,12 @@
       "salary": "$75,500",
       "stats": [
           {
-              "Pace":80,
-              "Shooting":60,
-              "Passing":72,
-              "Dribbling":74,
-              "Defending":80,
-              "Physical":80
+            "pace":80,
+            "shooting":60,
+            "passing":72,
+            "dribbling":74,
+            "defending":80,
+            "physical":80
           }
       ]
       
