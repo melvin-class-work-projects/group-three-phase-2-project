@@ -4,7 +4,6 @@
       "id": 1,
       "type": "loan",
       "name": "Lionel Messi",
-      "profile":"./images/messi-profile.jpg",
       "height":"170cm | 5'7",
       "image": "./images/lionel-messi.jpg",
       "nationality": "Argentina, Spain",
