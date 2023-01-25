@@ -347,6 +347,35 @@
       "type": "sale",
       "name": "Kevin De Bruyne",
       "height":"5'11 | 181cm ",
+      "image": "./Downloads/Kevin_De_Bruyne.jpg",
+      "nationality": "Belgium",
+      "position":"AM",
+      "league":"Premier league",
+      "dob": "1991-6-28",
+      "description": "A a Belgian professional footballer who plays as a midfielder for Premier League club Manchester City and the Belgium national team. He is widely regarded as one of the best players in the world, Pundits have often described him as a complete footballer.", 
+      "club":"Manchester City",
+      "value": "33M",
+      "strong foot":"Right",
+      "salary": "$84,500",
+      "stats": [
+          {
+              "Pace":89,
+              "Shooting":65,
+              "Passing":70,
+              "Dribbling":74,
+              "Defending":65,
+              "Physical":70
+          }
+      ]
+      
+      
+    },
+
+    {
+      "id": 14,
+      "type": "sale",
+      "name": "Kevin De Bruyne",
+      "height":"5'11 | 181cm ",
       "image": "./https://upload.wikimedia.org/wikipedia/commons/4/40/Kevin_De_Bruyne_201807091.jpg",
       "nationality": "Belgium",
       "position":"AM",
@@ -367,6 +396,7 @@
               "Physical":70
           }
       ]
+      
       
     }
 
