@@ -42,6 +42,9 @@ const Player = () => {
                 <li>Club: {player.club}</li>
                 <li>League: {player.league}</li> 
                 <li>Salary: {player.salary}</li>
+                </ul>
+                <ul>
+                <h5>Player Stats</h5>
                 <li>Height: {player.height}</li>
                 <li>Strong foot: {player.foot}</li>
                 <li> Pace: {player.pace}</li>
