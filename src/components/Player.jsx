@@ -44,13 +44,19 @@ const Player = () => {
                 <li>Salary: {player.salary}</li>
                 <li>Height: {player.height}</li>
                 <li>Strong foot: {player.foot}</li>
+                <li> Pace: {player.pace}</li>
+                <li> Shooting: {player.shooting}</li>
+                <li> Passing: {player.passing}</li>
+                <li> Dribbling: {player.dribbling}</li>
+                <li> Defending: {player.defending}</li>
+                <li> Physical: {player.physical}</li>
                 </ul>
               </p>
               <h3 className="display-6 my-4 fw-bold">
                 ${player.value}
               </h3>
               <p className="lead">{player.description}</p>
-              
+  
               <button className="btn btn-dark">
                 Bid
               </button>

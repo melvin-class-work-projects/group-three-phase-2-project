@@ -16,12 +16,12 @@
       "value": "55.7M",
       "foot":"Left",
       "salary": "$800,000",
-      "Pace":85,
-      "Shooting":92,
-      "Passing":91,
-      "Dribbling":95,
-      "Defending":34,
-      "Physical":65
+      "pace":85,
+      "shooting":92,
+      "passing":91,
+      "dribbling":95,
+      "defending":34,
+      "physical":65
     },
 
     {
@@ -39,12 +39,12 @@
       "value": "49.5M",
       "foot":"Right",
       "salary": "$140,000",
-      "Pace":87,
-      "Shooting":82,
-      "Passing":76,
-      "Dribbling":83,
-      "Defending":42,
-      "Physical":73
+      "pace":87,
+      "shooting":82,
+      "passing":76,
+      "dribbling":83,
+      "defending":42,
+      "physical":73
     },
 
     {
@@ -62,12 +62,12 @@
       "value": "33.5M",
       "foot":"Right",
       "salary": "$78,000",
-      "Pace":70,
-      "Shooting":84,
-      "Passing":84,
-      "Dribbling":85,
-      "Defending":53,
-      "Physical":65
+      "pace":70,
+      "shooting":84,
+      "passing":84,
+      "dribbling":85,
+      "defending":53,
+      "physical":65
       
     },
 
@@ -86,12 +86,12 @@
       "value": "58M",
       "foot":"Right",
       "salary": "$72,000",
-      "Pace":90,
-      "Shooting":85,
-      "Passing":65,
-      "Dribbling":78,
-      "Defending":40,
-      "Physical":81
+      "pace":90,
+      "shooting":85,
+      "passing":65,
+      "dribbling":78,
+      "defending":40,
+      "physical":81
      
       
     },
@@ -111,12 +111,12 @@
       "value": "57.5M",
       "foot":"Right",
       "salary": "$150,000",
-      "Pace":86,
-      "Shooting":45,
-      "Passing":64,
-      "Dribbling":74,
-      "Defending":85,
-      "Physical":78
+      "pace":86,
+      "shooting":45,
+      "passing":64,
+      "dribbling":74,
+      "defending":85,
+      "physical":78
           
       
     },
@@ -137,12 +137,12 @@
       "value": "60.5M",
       "foot":"Right",
       "salary": "$75,000",
-      "Pace":86,
-      "Shooting":40,
-      "Passing":60,
-      "Dribbling":66,
-      "Defending":86,
-      "Physical":81
+      "pace":86,
+      "shooting":40,
+      "passing":60,
+      "dribbling":66,
+      "defending":86,
+      "physical":81
       
     },
 
@@ -162,12 +162,12 @@
       "value": "27.5M",
       "foot":"Right",
       "salary": "$16,500",
-      "Pace":71,
-      "Shooting":57,
-      "Passing":67,
-      "Dribbling":69,
-      "Defending":82,
-      "Physical":86
+      "pace":71,
+      "shooting":57,
+      "passing":67,
+      "dribbling":69,
+      "defending":82,
+      "physical":86
       
     },
 
@@ -187,12 +187,12 @@
       "value": "6.5M",
       "foot":"Right",
       "salary": "$38,500",
-      "Pace":82,
-      "Shooting":63,
-      "Passing":72,
-      "Dribbling":80,
-      "Defending":65,
-      "Physical":66
+      "pace":82,
+      "shooting":63,
+      "passing":72,
+      "dribbling":80,
+      "defending":65,
+      "physical":66
     },
 
 
@@ -211,12 +211,12 @@
       "value": "22M",
       "foot":"Right",
       "salary": "$65,000",
-      "Pace":80,
-      "Shooting":67,
-      "Passing":71,
-      "Dribbling":85,
-      "Defending":74,
-      "Physical":76
+      "pace":80,
+      "shooting":67,
+      "passing":71,
+      "dribbling":85,
+      "defending":74,
+      "physical":76
       
     },
 
@@ -235,12 +235,12 @@
       "value": "3.3M",
       "foot":"Right",
       "salary": "$9,500",
-      "Pace":80,
-      "Shooting":62,
-      "Passing":61,
-      "Dribbling":73,
-      "Defending":67,
-      "Physical":70
+      "pace":80,
+      "shooting":62,
+      "passing":61,
+      "dribbling":73,
+      "defending":67,
+      "physical":70
     },
 
     
@@ -259,12 +259,12 @@
       "value": "550K",
       "foot":"Right",
       "salary": "$35,500",
-      "Diving":76,
-      "Handling":80,
-      "Kicking":72,
-      "Reflexes":77,
-      "Speed":50,
-      "Positioning":83
+      "diving":76,
+      "handling":80,
+      "kicking":72,
+      "reflexes":77,
+      "speed":50,
+      "positioning":83
       
     },
 
@@ -284,12 +284,12 @@
       "value": "4M",
       "foot":"Right",
       "salary": "$42,000",
-      "Diving":79,
-      "Handling":79,
-      "Kicking":65,
-      "Reflexes":84,
-      "Speed":41,
-      "Positioning":90
+      "diving":79,
+      "handling":79,
+      "kicking":65,
+      "reflexes":84,
+      "speed":41,
+      "positioning":90
     }
   ]
 }
