@@ -329,16 +329,13 @@
       "value": "4M",
       "strong foot":"Right",
       "salary": "$42,000",
-      "stats": [
-          {
             "Diving":79,
             "Handling":79,
             "Kicking":65,
             "Reflexes":84,
             "Speed":41,
             "Positioning":90
-          }
-      ]
+         
       
     },
 
@@ -357,16 +354,14 @@
       "value": "33M",
       "strong foot":"Right",
       "salary": "$84,500",
-      "stats": [
-          {
+      
               "Pace":89,
               "Shooting":65,
               "Passing":70,
               "Dribbling":74,
               "Defending":65,
               "Physical":70
-          }
-      ]
+          
       
       
     },
@@ -386,16 +381,13 @@
       "value": "33M",
       "strong foot":"Right",
       "salary": "$75,500",
-      "stats": [
-          {
-            "pace":80,
-            "shooting":60,
-            "passing":72,
-            "dribbling":74,
-            "defending":80,
-            "physical":80
-          }
-      ]
+      
+      "pace":80,
+      "shooting":60,
+      "passing":72,
+      "dribbling":74,
+      "defending":80,
+      "physical":80
       
       
     }
