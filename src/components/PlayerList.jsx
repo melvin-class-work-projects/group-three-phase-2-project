@@ -1,4 +1,8 @@
+import { useNavigate, useParams } from 'react-router-dom';
+
 const PlayerList = ({players, title}) => {
+    let navigate = useNavigate();
+    let { id } = useParams();
     return ( 
         <div className="row">
             <h2 className="text-center p-5">{title}</h2>
@@ -23,7 +27,9 @@ const PlayerList = ({players, title}) => {
                                 </ul>
                                 
                                 <div className="d-flex justify-content-between">
-                                    <button className="btn btn-info">Details</button>
+                                    <button onClick={() => {
+                                        navigate(`/players/${player.id}`);
+                                    }} className="btn btn-info">Details</button>
                                     <button onClick={handleDelete} className="btn btn-danger">X</button>
                                 </div>
                             </div>
