@@ -374,26 +374,26 @@
     {
       "id": 14,
       "type": "sale",
-      "name": "Kevin De Bruyne",
-      "height":"5'11 | 181cm ",
-      "image": "./https://upload.wikimedia.org/wikipedia/commons/4/40/Kevin_De_Bruyne_201807091.jpg",
-      "nationality": "Belgium",
+      "name": "Luka Modric",
+      "height":"5'8 | 172cm ",
+      "image": "./Downloads/Luka_Modric.jpg",
+      "nationality": "Croatian",
       "position":"AM",
-      "league":"Premier league",
-      "dob": "1991-6-28",
-      "description": "A a Belgian professional footballer who plays as a midfielder for Premier League club Manchester City and the Belgium national team. He is widely regarded as one of the best players in the world, Pundits have often described him as a complete footballer.", 
-      "club":"Manchester City",
+      "league":"La Liga",
+      "dob": "1985-9-9",
+      "description": "A Croatian professional footballer who plays as a midfielder for La Liga club Real Madrid and captains the Croatia national team. He plays mainly as a central midfielder, but can also play as an attacking midfielder or as a defensive midfielder. He is widely regarded as one of the greatest midfielders of all time, and as the greatest ever Croatian footballer Born in Zadar, Modrić's childhood coincided with the Croatian War of Independence which displaced his family. In 2002, he was signed by Dinamo Zagreb at age sixteen, after showing promise with his hometown club NK Zadar's youth team. He continued his development in Zagreb.", 
+      "club":"Real Madrid",
       "value": "33M",
       "strong foot":"Right",
-      "salary": "$84,500",
+      "salary": "$75,500",
       "stats": [
           {
-              "Pace":89,
-              "Shooting":65,
-              "Passing":70,
+              "Pace":80,
+              "Shooting":60,
+              "Passing":72,
               "Dribbling":74,
-              "Defending":65,
-              "Physical":70
+              "Defending":80,
+              "Physical":80
           }
       ]
       
