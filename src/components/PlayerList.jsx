@@ -1,8 +1,7 @@
-import { useNavigate, useParams } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 
 const PlayerList = ({players, title}) => {
     let navigate = useNavigate();
-    let { id } = useParams();
     return ( 
         <div>
             <div className="card text-bg-dark border-0">

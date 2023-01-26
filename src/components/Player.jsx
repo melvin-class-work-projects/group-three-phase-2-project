@@ -13,7 +13,7 @@ const Player = () => {
             .then (player => setPlayer(player))
             setLoading(false); 
             console.log(player.image)
-    }, []);
+    }, [id, player.image]);
 
     const Loading = () => {
         return(
